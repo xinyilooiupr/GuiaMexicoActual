@@ -1,0 +1,59 @@
+nav ul li {
+  color:mediumturquoise;
+  font-weight:bolder;
+  display:inline;
+  margin-left:10px;
+  margin-right:10px
+  list-style-type: none;
+}
+
+nav ul {
+  border-style: solid;
+  border-color: MediumVioletRed;
+  background-color: tomato;
+  border-width: 3px;
+  padding: 7px;
+  border-radius: 10px;
+  }
+
+nav ul li a {
+  color:whitesmoke;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+body {
+  background-color:blanchedalmond;
+  font-family: "Tahoma", sans-serif;
+  color: brown;
+}
+
+h1 {
+  color: green;
+  font-family: "Georgia", serif;
+}
+
+h2 {
+  font-family: "Trebuchet MS", sans-serif;
+  color: red;
+}
+
+table, th, td {
+  border: 1px solid brown;
+  border-collapse: collapse;
+}
+tr {
+  background-color: ivory;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: purple;
+}
+td {
+  color: black;
+}
+/********************************/
